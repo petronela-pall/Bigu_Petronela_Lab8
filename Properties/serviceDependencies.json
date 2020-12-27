@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Bigu_Petronela_Lab8Context"
+    }
+  }
+}
